@@ -2,39 +2,39 @@
 #logo: kiobov.io/Quen.jpg
 #description: Work dynamicly,Open source Contributor, Enterprenuer, Data SCientist/Analyst Sometimes Software Engineer Majorly Machine Learning Engineer NLP linguists 
 #show_downloads : False
+title: Nyakio's Portfolio
+description: Personal website and portfolio
 remote_theme: eliottvincent/bay
+
+plugins:
+  - jekyll-remote-theme
+
 header:
   pages:
     - name: Home
-      slug: /      <-- index.md
-    - name: Blog   <-- blog.md
-    - name: Projects   <-- Projects.md
+      slug: /
+    - name: Blog
+      slug: /blog/
+    - name: Projects
+      slug: /projects/
+
 footer:
   show_powered_by: true
   contact:
     - type: email
       name: Email
       value: nyakio19roseary@gmail.com
-    - type: wechat
-      value: YourWeChatUsername
-      link: "#"
   follow:
     - type: twitter
       name: Kio bov
       link: http://x.com/kiobov
       username: "@kiobov"
-    - #type: facebook
-     # name: Facebook
-      #link: http://facebook.com/YourFacebookUsername
     - type: linkedin
       name: Nyakio
       link: https://ke.linkedin.com/in/nyakio-mburu-68995a201
     - type: github
       name: Nyakio
       link: https://github.com/kiobov/kiobov.io
-    #- type: dribbble
-     # name: Dribbble
-    #  link: https://dribbble.com/YourDribbbleUsername
     - type: rss
       name: RSS
       link: /feed.xml
