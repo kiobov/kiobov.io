@@ -2,4 +2,5 @@ title: Nyakio Mburu
 logo: kiobov.io/Quen.jpg
 description: Work dynamicly,Open source Contributor, Enterprenuer, Data SCientist/Analyst Sometimes Software Engineer Majorly Machine Learning Engineer NLP linguists 
 show_downloads : False
-theme : jekyll-theme-minimal
+plugins:
+  - jekyll-theme-hamilton
