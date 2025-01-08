@@ -31,6 +31,7 @@ Kharis Therapy is a mental health platform providing therapy services across Afr
 1. Data Collection and Processing
 
     1. Collected multiple data points from patient interactions including:
+
         Response timing patterns
         Message sentiment scores
         Interaction frequency
@@ -38,7 +39,9 @@ Kharis Therapy is a mental health platform providing therapy services across Afr
 
     2. Created baseline metrics from historical data (1000+ records)
     3. Built automated ETL pipelines to clean and standardize incoming data
+
     Key Achievement: 
+
         Successfully processed 1000+ daily interactions with 95% data quality
 
 2. Anomaly Detection Algorithm
@@ -50,22 +53,26 @@ Kharis Therapy is a mental health platform providing therapy services across Afr
 
     2. Used machine learning to identify unusual patterns
     3. Created a scoring system for risk assessment
+
     Key Achievement: 
         40% improvement in pattern recognition accuracy
 
 3. Key Metrics and Visualizations
 
     1. Built interactive dashboards showing:
+
         Real-time anomaly scores
         Pattern deviations over time
         Risk level distributions
 
     2. Implemented visualization tools for:
+
         Trend analysis
         Pattern comparison
         Anomaly clustering
 
     Key Achievement
+
         Reduced false positives by 25% through better pattern visualization
 
 4. Alert System Integration
@@ -78,7 +85,9 @@ Kharis Therapy is a mental health platform providing therapy services across Afr
 
     2. Integrated with notification systems
     3. Created automated response workflows
+    
     Key Achievement
+
      30% faster response time to critical patterns
 
 # Recommendations and Next Steps
