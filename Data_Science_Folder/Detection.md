@@ -32,10 +32,10 @@ Kharis Therapy is a mental health platform providing therapy services across Afr
 
     1. Collected multiple data points from patient interactions including:
 
-        Response timing patterns
-        Message sentiment scores
-        Interaction frequency
-        Response consistency
+        * Response timing patterns
+        * Message sentiment scores
+        * Interaction frequency
+        * Response consistency
 
     2. Created baseline metrics from historical data (1000+ records)
     3. Built automated ETL pipelines to clean and standardize incoming data
@@ -47,9 +47,9 @@ Kharis Therapy is a mental health platform providing therapy services across Afr
 2. Anomaly Detection Algorithm
     1. Implemented a multi-factor detection system using:
 
-        Z-score analysis for continuous variables
-        Statistical pattern matching
-        Dynamic thresholding based on historical patterns
+        * Z-score analysis for continuous variables
+        * Statistical pattern matching
+        * Dynamic thresholding based on historical patterns
 
     2. Used machine learning to identify unusual patterns
     3. Created a scoring system for risk assessment
@@ -61,15 +61,15 @@ Kharis Therapy is a mental health platform providing therapy services across Afr
 
     1. Built interactive dashboards showing:
 
-        Real-time anomaly scores
-        Pattern deviations over time
-        Risk level distributions
+        * Real-time anomaly scores
+        * Pattern deviations over time
+        * Risk level distributions
 
     2. Implemented visualization tools for:
 
-        Trend analysis
-        Pattern comparison
-        Anomaly clustering
+        * Trend analysis
+        * Pattern comparison
+        * Anomaly clustering
 
     Key Achievement
 
@@ -79,9 +79,9 @@ Kharis Therapy is a mental health platform providing therapy services across Afr
 
     1. Developed a tiered alert system:
 
-        High-risk: Immediate notification
-        Medium-risk: Scheduled review
-        Low-risk: Regular monitoring
+        * High-risk: Immediate notification
+        * Medium-risk: Scheduled review
+        * Low-risk: Regular monitoring
 
     2. Integrated with notification systems
     3. Created automated response workflows
@@ -95,28 +95,28 @@ Kharis Therapy is a mental health platform providing therapy services across Afr
 
 1. Enhanced Pattern Recognition:
 
-    Implement deep learning models for complex pattern recognition
-    Add more behavioral indicators
-    Increase real-time processing capabilities
+    * Implement deep learning models for complex pattern recognition
+    * Add more behavioral indicators
+    * Increase real-time processing capabilities
 
 
 2. System Integration:
 
-    Connect with external healthcare systems
-    Implement standardized health metrics
-    Enhance data security measures
+    * Connect with external healthcare systems
+    * Implement standardized health metrics
+    * Enhance data security measures
 
 # Next Steps/Developments:
 
 1. Predictive Analytics:
 
-    Develop predictive models for early warning
-    Implement trend analysis
-    Create patient risk profiles
+    * Develop predictive models for early warning
+    * Implement trend analysis
+    * Create patient risk profiles
 
 
 2. Scale System:
 
-    Increase processing capacity
-    Add more data sources
-    Enhance visualization tools
+    * Increase processing capacity
+    * Add more data sources
+    * Enhance visualization tools
