@@ -1,0 +1,41 @@
+#title: Nyakio Mburu
+#logo: kiobov.io/Quen.jpg
+#description: Work dynamicly,Open source Contributor, Enterprenuer, Data SCientist/Analyst Sometimes Software Engineer Majorly Machine Learning Engineer NLP linguists 
+#show_downloads : False
+title: Nyakio's Portfolio
+description: Personal website and portfolio
+remote_theme: eliottvincent/bay
+
+plugins:
+  - jekyll-remote-theme
+
+header:
+  pages:
+    - name: Home
+      slug: /
+    - name: Blog
+      slug: /blog/
+    - name: Projects
+      slug: /projects/
+
+footer:
+  show_powered_by: true
+  contact:
+    - type: email
+      name: Email
+      value: nyakio19roseary@gmail.com
+  follow:
+    - type: twitter
+      name: Kio bov
+      link: http://x.com/kiobov
+      username: "@kiobov"
+    - type: linkedin
+      name: Nyakio
+      link: https://ke.linkedin.com/in/nyakio-mburu-68995a201
+    - type: github
+      name: Nyakio
+      link: https://github.com/kiobov/kiobov.io
+    - type: rss
+      name: RSS
+      link: /feed.xml
+
