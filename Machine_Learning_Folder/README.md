@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+This repo holds all projects and work documentation proffessionally that i have worked on. 
+
+=======
 Welcome !
 
 What have i been doing for the past 4 years?
@@ -15,7 +18,4 @@ Disclaimer
 Am a student curious about computers and data. Collaborations, suggestions and recommendations to improve work are welcome. 
 
 Thank you. 
-=======
-This repo holds all projects and work documentation proffessionally that i have worked on. 
-
->>>>>>> af41a75 (Updated Kharis project overview)
+>>>>>>> a62a1bec8d28e3ed5d5305d318e4f43d5fbe2f4f
